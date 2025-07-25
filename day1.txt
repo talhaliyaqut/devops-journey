@@ -1,0 +1,3 @@
+Thinks I learnt today
+-Basic linux commands . I already know half of them but still it was nice to revisit these commands. I should say the heighlight of today is working on nano. I am writing this text file in nano only that is why I might have spelling error :`(
+-Basic Git commands . Today I learnt that to upload my local files to github I need personal token . Earlier when it asked me to enter password I was entering my github account password which was giving me error. I believe personalToken is much safer than password and you can add expiry date also further adding a security layer.  
